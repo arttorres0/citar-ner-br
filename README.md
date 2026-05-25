@@ -1,0 +1,3 @@
+This repository contains the files of CITAR-NER-Br Unified NER dataset (comprising flat, overlapping and discontinuous entities), which addresses the task of extraction of legal citations in legal documents. This repository includes source documents, annotated files, baseline outputs of models from the literature, evaluation script and metrics.
+
+All files will be published following CITAR-NER-Br paper acceptance and publishing.
