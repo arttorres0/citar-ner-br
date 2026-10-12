@@ -55,8 +55,8 @@
 
 Contains the data exported directly from the BRAT annotation tool, organized by source sub-collection:
 
-- `lener/` — LeNER-Br documents and annotations.
-- `tesemo/` — Ulysses Tesemõ documents and annotations, separated into 2 Brazilian courts (STJ and TRF5).
+- `lener/` — LeNER-Br ([https://github.com/peluz/lener-br](https://github.com/peluz/lener-br)) documents and annotations.
+- `tesemo/` — Ulysses Tesemõ ([https://github.com/ulysses-camara/ulysses-tesemo](https://github.com/ulysses-camara/ulysses-tesemo)) documents and annotations, separated into 2 Brazilian courts (STJ and TRF5).
 
 The raw annotation exports include the original text and corresponding annotation files.
 
