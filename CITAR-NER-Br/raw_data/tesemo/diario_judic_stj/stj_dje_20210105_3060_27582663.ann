@@ -1,0 +1,10 @@
+T1	LEGISLACAO 197 217	Constituição Federal
+T2	LEGISLACAO 254 278	Código de Processo Civil
+T3	ARTIGO 162 170;197 217	art. 105 Constituição Federal
+T4	INCISO 162 181;197 217	art. 105, inciso II Constituição Federal
+T5	ALINEA 162 186;197 217	art. 105, inciso II, “a” Constituição Federal
+T6	ALINEA 162 181;189 217	art. 105, inciso II "b", da Constituição Federal
+T7	ARTIGO 223 227;227 232;254 278	art. 1.027 Código de Processo Civil
+T9	ALINEA 223 227;227 241;254 278	art. 1.027, II, "a" Código de Processo Civil
+T12	INCISO 223 227;227 236;254 278	art. 1.027, II Código de Processo Civil
+T13	ARTIGO 223 227;245 278	art. 1.028 do Código de Processo Civil
